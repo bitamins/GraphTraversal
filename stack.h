@@ -1,6 +1,6 @@
 // =======================================================
-// HW#: HW1P1 stack
-// Your name: Michael Bridges
+// template: Rika Yoshii
+// name: Michael Bridges
 // Compiler:  g++ 
 // File type: headher file stack.h
 //=======================================================
