@@ -1,6 +1,6 @@
 // =====================================================
-// HW#: HW1P1 queue 
-// Your name: Michael Bridges
+// template: Rika Yoshii
+// name: Michael Bridges
 // Compiler:  g++ compiler
 // File type: queue header file 
 //=====================================================

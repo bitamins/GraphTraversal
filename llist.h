@@ -1,6 +1,6 @@
 // =======================================================
-// HW#: HW3P1 llist
-// Your name: Michael Bridges
+// template: Rika Yoshii
+// name: Michael Bridges
 // Compiler:  g++ 
 // File type: header file 
 //=======================================================

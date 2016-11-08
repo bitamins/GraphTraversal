@@ -1,4 +1,5 @@
 /*******************************************
+template: Rika Yoshii
 author: Michael Bridges
 compiler: g++
 type: implementation file
