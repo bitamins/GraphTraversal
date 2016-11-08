@@ -2,7 +2,7 @@ Intro:
 	The purpose of these programs is to show my knowledge of graph traversal using DFS and BFS,
 
 	These programs were based off programming assignments from my cs311 (data structures) class
-	taught by my excellent teacher Rika Yoshii.
+	taught by Dr. Rika Yoshii.
 Run:
 	run bfsdfs.exe to see breadth first search and depth first search applied to the graph in table.txt.
 
